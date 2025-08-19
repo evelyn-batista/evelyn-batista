@@ -28,9 +28,15 @@ Sou apaixonada pelo desafio de mergulhar em um conjunto de dados, decifrar os pa
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </p>
 </div>
 
-![Top Linguagens de Lyn](https://github-readme-stats.vercel.app/api/top-langs/?username=evelyn-batista&layout=compact&langs_count=7&theme=dracula)
+---
 
-![Estatísticas do GitHub de Lyn](https://github-readme-stats.vercel.app/api?username=evelyn-batista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
+<div align="center">
+  <a href="https://github.com/evelyn-batista">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelyn-batista&layout=compact&langs_count=7&theme=dracula"/>
+    <br><br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evelyn-batista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
